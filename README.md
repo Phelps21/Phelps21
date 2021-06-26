@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phelps21
 - 👀 I’m interested in learning as much coding as possible
-- 🌱 I’m currently learning java, javascript, html, css and C++
+- 🌱 I’m currently learning java, javascript, and C++
 - 💞️ I’m looking to collaborate on anything right now
 
 <!---
